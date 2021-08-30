@@ -1,4 +1,4 @@
-## inferface-netflix
+## interface-netflix
 
 Recriado interface principal do Netflix, com HTML5, CSS3 e JS. Utilizado orientações do curso para utilizar ícones e o plugin owlcarousel2 jquery que permite a criação de carrossel de imagens, que também pode ser com vídeos.
 
