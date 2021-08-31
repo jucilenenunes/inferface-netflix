@@ -12,6 +12,6 @@ Recriado interface principal do Netflix, com HTML5, CSS3 e JS. Utilizado orienta
 
 ## Meta
 
-Elaborar os Desafios propostos, criar outras páginas. 
+Elaborar os Desafios propostos, criar outras páginas. Meta cumprida em 1 dia!
 
 ##### by Jucilene Nunes
